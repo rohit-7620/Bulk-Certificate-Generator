@@ -332,6 +332,4 @@ Status is computed after processing all items based on counts:
 
 **Estimate:** 30 minutes
 
-## License
-
-MIT (for take-home assignment purposes)
+if any quary please contact : Rohit +91  7620156611
